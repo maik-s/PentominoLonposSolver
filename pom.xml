@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>groupId</groupId>
-  <artifactId>BrainBreakerSolver</artifactId>
+  <artifactId>PentominoLonposSolver</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Brainbreaker Solver</name>
+  <name>Pentomino Lonpos Solver</name>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>

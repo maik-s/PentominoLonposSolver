@@ -29,9 +29,9 @@ The following examples show two different solutions:
 
 ## Build and Usage 
 
-This is code was developed and tested on Fedora and Ubuntu.
+This code was developed and tested on Fedora and Ubuntu.
 The latest test happend on Ubuntu 20.04 with Maven 3.6.3 and OpenJDK 11. Just run `apt install maven` and run `mvn package` within this repo.  
-The resulting `target/BrainBreakerSolver-1.0-SNAPSHOT.jar` is executable by running `java -jar target/BrainBreakerSolver-1.0-SNAPSHOT.jar`. It does not output something to the console, but will create a directory in `/tmp/`, in order to store the solution images.
+The resulting `target/PentominoLonposSolver-1.0-SNAPSHOT.jar` is executable by running `java -jar target/PentominoLonposSolver-1.0-SNAPSHOT.jar`. It does not output something to the console, but will create a directory in `/tmp/`, in order to store the solution images.
 
 
 ### Custom boards and stone placements
